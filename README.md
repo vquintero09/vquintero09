@@ -4,11 +4,11 @@
 
 {  
 
-* 👂 `My name is`: **Victor (Vicoli09)**,
+* 👂 `My name is`: **Victor Quintero (Vicoli09)**,
 * 👩 `Pronouns`: **He**,
-* ⚡ `I'm`: **24 years old**,
-* 🌱 `I’m currently learning`: **Java & NestJs**,
-* ❤️ `I love`: ****  ,
+* ⚡ `I'm`: **25 years old**,
+* 🌱 `I’m currently learning`: **Java & MongoDB**,
+* ❤️ `I love`:   ,
 * 💻 `Favorite lang`: **TypeScript**  
 
 }
