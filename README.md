@@ -8,9 +8,7 @@
 * 👩 `Pronouns`: **He**,
 * ⚡ `I'm`: **25 years old**,
 * 🌱 `I’m currently learning`: **Java**,
-* ❤️ `I love`:   ,
 * 💻 `Favorite lang`: **TypeScript**  
-
 }
 
 
