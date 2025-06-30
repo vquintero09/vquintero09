@@ -1,13 +1,13 @@
 ## Hi there 👋
 <h2 align="center"> About me</h2>
-<p>I'm Victor, FullStack developer</p>
+<p>I'm Victor, Frotend Developer</p>
 
 {  
 
 * 👂 `My name is`: **Victor Quintero (Vicoli09)**,
 * 👩 `Pronouns`: **He**,
 * ⚡ `I'm`: **25 years old**,
-* 🌱 `I’m currently learning`: **Java & MongoDB**,
+* 🌱 `I’m currently learning`: **Java**,
 * ❤️ `I love`:   ,
 * 💻 `Favorite lang`: **TypeScript**  
 
